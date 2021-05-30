@@ -1,8 +1,9 @@
 <resources>
 
-    <style name="Theme.Appcode.NoActionBar">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
+    <style name="Theme.Appcode" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+
+        <!-- Customize your theme here. -->
     </style>
 
     <style name="Theme.Appcode.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
